@@ -5,9 +5,9 @@
 :mortar_board: PhD student at University of Liege
 
 :soccer: :movie_camera: My research revolves around the automatic calibration of broadcast cameras in the context of sport events. I've published some code for camera calibration in soccer that you can find :
-- here : https://github.com/evs-broadcast/CCBV
-- and there : https://github.com/SoccerNet/sn-calibration
-- More coming soon : https://github.com/evs-broadcast/BroadTrack 🎁🎄👀
+- here: https://github.com/evs-broadcast/CCBV
+- and there: https://github.com/SoccerNet/sn-calibration
+- Latest work: https://github.com/evs-broadcast/BroadTrack 
 
 
 <!--
